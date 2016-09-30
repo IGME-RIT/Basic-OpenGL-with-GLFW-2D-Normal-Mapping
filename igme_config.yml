@@ -1,0 +1,16 @@
+series: Basic OpenGL with GLFW
+title: 2D Normal Mapping
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: Use normal maps with 2d sprites to get awesome lighting effects.
+language: C++
+tags:
+  - Graphics
+extra_resources:
+connections:
+  - series: Basic OpenGL with GLFW
+    title: Sprite Batching
+  - series: Basic OpenGL with GLFW
+    title: Normal Mapping
