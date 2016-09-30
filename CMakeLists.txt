@@ -5,7 +5,7 @@ else()
 cmake_minimum_required (VERSION 3.0)
 endif()
 
-project(opengl-2d-normal-mapping)
+project(opengl-2d-normal-maps)
 
 set_property(GLOBAL PROPERTY USE_FOLDERS ON)
 

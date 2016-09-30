@@ -1,4 +1,4 @@
-# Basic OpenGL with GLFW: 2D Normal Mapping
+# Basic OpenGL with GLFW: 2D Normal Maps
 
 You might not have expected this, but normal maps can also be applied to 2D sprites.
 This demo combines elements used in the previous sprite batching and normal mapping demos.

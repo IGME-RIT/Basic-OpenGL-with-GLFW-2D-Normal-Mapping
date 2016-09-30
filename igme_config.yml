@@ -1,5 +1,5 @@
 series: Basic OpenGL with GLFW
-title: 2D Normal Mapping
+title: 2D Normal Maps
 author:
   name: David Erbelding
   email: daviderbelding@gmail.com
@@ -13,4 +13,4 @@ connections:
   - series: Basic OpenGL with GLFW
     title: Sprite Batching
   - series: Basic OpenGL with GLFW
-    title: Normal Mapping
+    title: Normal Maps
